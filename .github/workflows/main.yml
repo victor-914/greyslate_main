@@ -7,7 +7,7 @@ on:
 
 env:
   GITHUB_USER: victor-914
-  APP_NAME: sms
+  APP_NAME: greyslate
   RELEASE: 1.0.0
   REGISTRY: ghcr.io
 
