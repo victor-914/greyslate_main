@@ -1,4 +1,4 @@
-name: Build & push Greyslate Docker Image
+name: Build & push Greyslateholding Docker Image
 
 on:
   push:
